@@ -1,0 +1,1 @@
+This is the first Rails Project on Finance Tracking
